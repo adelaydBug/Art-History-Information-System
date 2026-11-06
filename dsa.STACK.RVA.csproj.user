@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AncientArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ArtHistoryQuiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaroqueArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContemporaryArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MedievalArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModernArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NeoclassicalArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrehistoricArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RenaissanceArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RomanticArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
